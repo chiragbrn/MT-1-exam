@@ -19,16 +19,17 @@
         <b>College:</b> ABES Engineering College
         <br>
         <b>City:</b> Ghaziabad
-    
-
-        
-        <br><br><br>
+    <br><br><br>
         <hr>
         <h2>About Me</h2>
         <p>I am a Student of Computer Science.</p>
         <p>I am interested in <i>web development</i>,</p>
         <p> <mark>artificial intelligence</mark> and <u>data science.</u></p>
+</body>
 
-
-    </body>
+    
 </html>
+
+
+        
+        
